@@ -205,3 +205,5 @@ jupyter notebook chest_xray_improved.ipynb
 - **Architecture:** EfficientNet by Tan & Le (Google Research)
 
 ⭐ *If you find this project helpful or educational, please consider giving it a star on GitHub!*
+#   C h e s t - X - R a y - P n e u m o n i a - D e t e c t i o n - m a i n  
+ 
